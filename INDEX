@@ -1,13 +1,26 @@
-Proyecto de sitio Web año 2022 -16-1
+<html>
+   
+<head>
 
-Nombre: Jhon Stiven Parada Suarez
+    <h1>Proyecto de sitio Web año 2022 -16-1.</h1>
 
-Programa: Ingenieria de sistemas
-
-Fecha: Febrero - 20 - 2022
-
-Email:jsparadas@unadvirtual.edu.co
-
-Skype: JHONEZ22
-
-Celular Whatssap: 3203171632
+      <h3>
+        
+            <p><u>Nombre: </u></p> <I>Jhon Stiven Parada Suarez </I>
+            <br>
+            <p><u>Programa:</u></p> <I>Ingenieria de sistemas</I>
+            <br>
+            <p><u>Fecha:</u></p> <i>Febrero - 20 - 2022 </i>
+            <br>
+            <p><u>Email:</u></p> <i>jsparadas@unadvirtual.edu.co</i>
+            <br>
+            <p><u>Skype:</u></p> <i> JHONEZ22 </i>
+            <br>
+            <p><u>Celular Whatssap:</u></p> <i>3203171632 </i>
+        </pre>
+    </h3>
+</head>
+<body>
+    
+</body>
+</html>>
